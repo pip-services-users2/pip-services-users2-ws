@@ -9,6 +9,9 @@ git clone git@github.com:pip-services-users2/service-organizations-node.git
 git clone git@github.com:pip-services-users2/service-msgdistribution-node.git
 git clone git@github.com:pip-services-users2/service-emailsettings-node.git
 git clone git@github.com:pip-services-users2/service-activities-node.git
+git clone git@github.com:pip-services-users2/service-accounts-node.git
+git clone git@github.com:pip-services-users2/service-sessions-node.git
+git clone git@github.com:pip-services-users2/service-invitations-node.git
 git clone git@github.com:pip-services-users2/client-smssettings-node.git
 git clone git@github.com:pip-services-users2/client-roles-node.git
 git clone git@github.com:pip-services-users2/client-passwords-node.git
@@ -19,6 +22,4 @@ git clone git@github.com:pip-services-users2/client-emailsettings-node.git
 git clone git@github.com:pip-services-users2/client-activities-node.git
 git clone git@github.com:pip-services-users2/client-sessions-node.git
 git clone git@github.com:pip-services-users2/client-orgroles-node.git
-git clone git@github.com:pip-services-users2/service-invitations-node.git
 git clone git@github.com:pip-services-users2/client-accounts-node.git
-git clone git@github.com:pip-services-users2/service-accounts-node.git

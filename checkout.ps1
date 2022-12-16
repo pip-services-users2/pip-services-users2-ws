@@ -23,3 +23,10 @@ git clone git@github.com:pip-services-users2/client-activities-node.git
 git clone git@github.com:pip-services-users2/client-sessions-node.git
 git clone git@github.com:pip-services-users2/client-orgroles-node.git
 git clone git@github.com:pip-services-users2/client-accounts-node.git
+git clone git@github.com:pip-services-users2/client-roles-go.git
+git clone git@github.com:pip-services-users2/client-sessions-go.git
+git clone git@github.com:pip-services-users2/client-passwords-go.git
+git clone git@github.com:pip-services-users2/client-invitations-go.git
+git clone git@github.com:pip-services-users2/client-emailsettings-go.git
+git clone git@github.com:pip-services-users2/client-accounts-go.git
+git clone git@github.com:pip-services-users2/client-msgdistribution-go.git
